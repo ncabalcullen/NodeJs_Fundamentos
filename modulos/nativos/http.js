@@ -24,3 +24,5 @@ function router(req, res){
 }
 
 console.log("escuchando http en puerto 3000")
+
+//ejecutar con --inspect para debuggear
